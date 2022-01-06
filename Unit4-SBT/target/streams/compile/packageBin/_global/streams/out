@@ -1,0 +1,11 @@
+[debug] Packaging C:\Users\dreww\Desktop\College Classes\Spring 2021\CS 310\Unit4-SBT\target\scala-2.13\unit4-sbt_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	unit4
+[debug] 	  C:\Users\dreww\Desktop\College Classes\Spring 2021\CS 310\Unit4-SBT\target\scala-2.13\classes\unit4
+[debug] 	unit4\Main$.class
+[debug] 	  C:\Users\dreww\Desktop\College Classes\Spring 2021\CS 310\Unit4-SBT\target\scala-2.13\classes\unit4\Main$.class
+[debug] 	unit4\Main$delayedInit$body.class
+[debug] 	  C:\Users\dreww\Desktop\College Classes\Spring 2021\CS 310\Unit4-SBT\target\scala-2.13\classes\unit4\Main$delayedInit$body.class
+[debug] 	unit4\Main.class
+[debug] 	  C:\Users\dreww\Desktop\College Classes\Spring 2021\CS 310\Unit4-SBT\target\scala-2.13\classes\unit4\Main.class
+[debug] Done packaging.
